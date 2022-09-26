@@ -171,6 +171,7 @@ export default function Home() {
             <h1 className={styles.title}>Welcome to LW3Punks!</h1>
             <div className={styles.description}>
               Its an NFT collection for LearnWeb3 students.
+              获取nft后可在opensea查看自己的nft:https://testnets.opensea.io/assets/mumbai/0x1Fb0C7328EEaAfF23B304ce277dF01ce6D165F4C/1
             </div>
             <div className={styles.description}>
               {tokenIdsMinted}/10 have been minted
